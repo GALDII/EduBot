@@ -1,16 +1,26 @@
 Subject,Semester,Marks,Max_Marks,Grade,Credits
-Python Programming,1,88,100,A+,4
-Advanced Statistics,1,74,100,A,4
-Linear Algebra for Data Science,1,69,100,B+,3
-Web Technologies (HTML/CSS/JS),1,91,100,O,3
-Database Management Systems,1,76,100,A,3
-Introduction to Machine Learning,2,85,100,A+,4
-Deep Learning Fundamentals,2,78,100,A,4
-Data Wrangling and Visualization,2,92,100,O,3
-React.js and Frontend Development,2,87,100,A+,3
-Software Engineering Principles,2,65,100,B+,3
-Generative AI and LLMs,2,90,100,O,4
-Node.js and Backend Development,2,82,100,A+,3
-Research Methodology,2,58,100,B,2
-Data Analytics and Business Intelligence,1,71,100,A,3
-Natural Language Processing,2,75,100,A,3
+Python Programming,1,57,100,B,4
+Advanced Statistics,1,60,100,B+,4
+Linear Algebra for Data Science,1,58,100,B,3
+Web Technologies (HTML/CSS/JS),1,62,100,B+,3
+Database Management Systems,1,59,100,B,3
+Introduction to Machine Learning,2,68,100,B+,4
+Data Wrangling and Visualization,2,65,100,B+,3
+React.js and Frontend Development,2,67,100,B+,3
+Software Engineering Principles,2,64,100,B+,3
+Data Analytics and Business Intelligence,2,68,100,B+,3
+Deep Learning Fundamentals,3,55,100,B,4
+Natural Language Processing,3,59,100,B,3
+Big Data Technologies,3,58,100,B,3
+Research Methodology,3,61,100,B+,2
+Computer Vision Basics,3,57,100,B,3
+Generative AI and LLMs,4,71,100,A,4
+Node.js and Backend Development,4,68,100,B+,3
+Cloud Computing Fundamentals,4,65,100,B+,3
+Time Series Analysis,4,68,100,B+,3
+Ethics in AI,4,67,100,B+,2
+MLOps and Model Deployment,5,72,100,A,4
+Reinforcement Learning,5,68,100,B+,3
+Advanced Deep Learning,5,70,100,A,4
+Capstone Project,5,71,100,A,4
+Entrepreneurship and Innovation,5,68,100,B+,2
