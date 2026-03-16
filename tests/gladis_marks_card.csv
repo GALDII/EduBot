@@ -1,0 +1,16 @@
+Subject,Semester,Marks,Max_Marks,Grade,Credits
+Python Programming,1,88,100,A+,4
+Advanced Statistics,1,74,100,A,4
+Linear Algebra for Data Science,1,69,100,B+,3
+Web Technologies (HTML/CSS/JS),1,91,100,O,3
+Database Management Systems,1,76,100,A,3
+Introduction to Machine Learning,2,85,100,A+,4
+Deep Learning Fundamentals,2,78,100,A,4
+Data Wrangling and Visualization,2,92,100,O,3
+React.js and Frontend Development,2,87,100,A+,3
+Software Engineering Principles,2,65,100,B+,3
+Generative AI and LLMs,2,90,100,O,4
+Node.js and Backend Development,2,82,100,A+,3
+Research Methodology,2,58,100,B,2
+Data Analytics and Business Intelligence,1,71,100,A,3
+Natural Language Processing,2,75,100,A,3
